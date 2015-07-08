@@ -24,6 +24,13 @@ Python code for geeksforgeeks
 8. counting sort, count the number first, then for each i,
     count[i] += count[i-1], get the position of the number
 
+9. huffman code(compression): compute probability of each parrten, 
+   sum less probability together and get huffman tree. prefix code.
+
+10. recursive call is the last thing excuted by the function is called tail recursion. tail recursion is considered better than non tail recursive functions. non tail recursive fucntions can be changed to tain tecursive function by adding new parameter.
+
+11. detect cycle in a directed graph using back edge. dectect cycle in an undirected graph using union find. Because undirected graph more than one grey vertice will be found. 
+
 
 
 
