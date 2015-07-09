@@ -31,6 +31,11 @@ Python code for geeksforgeeks
 
 11. detect cycle in a directed graph using back edge. dectect cycle in an undirected graph using union find. Because undirected graph more than one grey vertice will be found. 
 
+12. will be used in job sequence problem. Union by rank: a quick method to find the parent.
+
+13. greedy algorithm can give approximation of some NP problem 
+
+14. Longest increasing subsequence has O(nlogn) method using binary search
 
 
 
